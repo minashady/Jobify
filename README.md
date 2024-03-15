@@ -7,10 +7,13 @@ A cross platform app to help people find jobs. It is available on web, andriod a
 ## Screenshots
 
 Home page
+
 ![App Screenshot](https://github.com/minashady/assets/blob/main/Home.jpg)
 
 Search results
+
 ![App Screenshot](https://github.com/minashady/assets/blob/main/Search%20results.jpg)
 
 Job details
+
 ![App Screenshot](https://github.com/minashady/assets/blob/main/Job%20details.jpg)
